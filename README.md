@@ -1,3 +1,4 @@
+[log.txt](https://github.com/Harryelric/Hi-there-I-m-Davide-n3wt0n-Benvenu-/files/6961306/log.txt)
 # Hi-there-I-m-Davide-n3wt0n-Benvenu-Simple Anime API
 Apa itu Simple Anime API?
 Simple Anime API adalah sebuah Restful API sederhana tentang Anime yang dibangun menggunakan Express.js. Restful API ini menggunakan mysql sebagai DBMS-nya dan Sequelize sebagai ORM-nya.
